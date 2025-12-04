@@ -9,4 +9,4 @@ A Machine Learning (ML) app using GraphQL works like this:
 
 ---
 #### Screenshot
-<img width="960" height="435" alt="Image" src="https://github.com/user-attachments/assets/ba39f45d-0c8d-44d4-8ee5-783360012656" />
+<img width="960" height="435" alt="Image" src="https://github.com/user-attachments/assets/e6c6eaef-96d8-4713-b5bf-bf2b452e2d7d" />
